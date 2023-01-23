@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    margin: auto;
+}
+
+#whiteTitle{
+    color: white;
+    font-weight: bolder;
+    font-family: Karla;
+}
+
+#greenTitle{
+    color: #4ADF86;
+    font-weight: bolder;
+    font-family: Karla;
+}
+
+h2{
+    font-family: Inter;
+    color: white;
+}
+
+button{
+    color: white;
+    background-color: #10B981;
+    border-radius: 6px;
+    border-style: none;
+    width: 159px;
+    height: 24px;
+}
+
+p{
+   background-color: #273549;
+   color: white;
+   width: 211px;
+   height: 39px; 
+   text-align: center;
+}
